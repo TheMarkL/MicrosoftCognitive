@@ -1,0 +1,13 @@
+https://developer.microsoft.com/en-us/windows/iot
+https://windowsondevices.com
+
+https://www.hackster.io/microsoft/projects
+
+https://www.microsoft.com/cognitive-services/en-us/
+
+https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
+
+https://github.com/lmouhib/DXLiveEmotionTracker
+
+https://powerbi.microsoft.com/en-us/
+
